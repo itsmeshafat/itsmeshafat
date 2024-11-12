@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [Noujatra](https://noujatra.com)<br>👯 I’m looking to collaborate on any feasible business idea<br>🤝 I’m looking for help with growing my business by funds<br>🌱 I’m currently learning Django and MERN<br>💬 Ask me about WordPress website design and development<br>⚡ I am funny and easy to talk with
+🔭 I’m currently working on [Take A Boat](https://takeaboat.com)<br>👯 I’m looking to collaborate on any feasible business idea<br>🤝 I’m looking for help with growing my business by funds<br>🌱 I’m currently learning Django and MERN<br>💬 Ask me about WordPress website design and development<br>⚡ I am funny and easy to talk with
 
 
 ## 🌐 Socials:
