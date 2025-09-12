@@ -1,30 +1,54 @@
-# 💫 About Me:
-🔭 I’m currently working on [Take A Boat](https://takeaboat.com)<br>👯 I’m looking to collaborate on any feasible business idea<br>🤝 I’m looking for help with growing my business by funds<br>🌱 I’m currently learning Django and MERN<br>💬 Ask me about WordPress website design and development<br>⚡ I am funny and easy to talk with
+# 👋 Hey there, I'm Shafat!
 
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/shafatmahmud.khan.54) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itsme_shafat) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/itsmeshafat) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/itsmeshafat) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=itsmeshafat&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=itsmeshafat&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeshafat&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=itsmeshafat&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=itsmeshafat&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+🚀 CTO @ **Take A Boat**  
+🌍 WordPress Wizard | Travel Website Guru | Laravel Aficionado | Bootstrap Enthusiast  
+⚡️ Vibe Coder | Passionate Builder | Tech Explorer
 
 ---
-[![](https://visitcount.itsvg.in/api?id=itsmeshafat&icon=0&color=3)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠️ Skills & Superpowers
+
+- **WordPress:** Plugin Development, Theme Customization, Speed Optimization
+- **Frameworks:** Laravel, Bootstrap
+- **Specialties:** Travel Platforms, Booking Systems, API Integrations
+- **Bonus:** Pixel-perfect UI, Clean Code, Performance Tweaks
+
+---
+
+## 🚤 What I’m Building
+
+- 💡 [LRM](https://github.com/itsmeshafat/lrm) – Next-gen lawyer record management
+- 🌊 [Take A Boat](https://takeaboat.com) – Making waves in travel tech
+- 🧩 [1mfollow](https://github.com/itsmeshafat/1mfollow) – Growth hacking tools
+- 🩺 [EDoc Doctor Appointment System](https://github.com/itsmeshafat/edoc-doctor-appointment-system) – Health meets code
+- 🗃️ [System Prompts & Models of AI Tools](https://github.com/itsmeshafat/system-prompts-and-models-of-ai-tools) – AI for everyone
+
+---
+
+## 🌐 Let’s Connect & Vibe
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/itsmeshafat)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/itsme_shafat)
+[![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.com/itsme_shafat)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=8801644413150)
+
+---
+
+## 📊 GitHub Stats & Fun Stuff
+
+![Shafat's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmeshafat&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeshafat&layout=compact&theme=tokyonight)
+![Profile Views](https://komarev.com/ghpvc/?username=itsmeshafat&color=blue)
+
+---
+
+## ✨ Fun Facts
+
+- 🌏 I help travel startups go global with code.
+- 🏄‍♂️ I love building things that make people’s lives easier.
+- 🎧 Coding playlist: From lofi to synthwave.
+- 🤝 Always open to collaboration and new ideas!
+
+---
+
+_“Code with passion, innovate with purpose, and always ride the vibe.”_
