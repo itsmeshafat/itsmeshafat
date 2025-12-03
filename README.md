@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Shafat!
 
-🚀 CTO @ **Take A Boat**  
+🚀 Web Developer  
 🌍 WordPress Wizard | Travel Website Guru | Laravel Aficionado | Bootstrap Enthusiast  
 ⚡️ Vibe Coder | Passionate Builder | Tech Explorer
 
