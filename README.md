@@ -83,8 +83,8 @@ contact    : open for freelance & collaboration
 
 | &nbsp; | Project | Description | Stack | Status |
 |--------|---------|-------------|-------|--------|
-| 🌊 | **[Take A Boat](https://takeaboat.com)** | Full-scale travel tech platform for marine experiences — booking, listings, payments | `Laravel` `MySQL` `Bootstrap` `API` | 🟢 Live |
-| ⚖️ | **[LRM](https://github.com/itsmeshafat/lrm)** | Next-gen lawyer record management system — cases, clients, billing | `Laravel` `PHP` `MySQL` | 🔨 Building |
+| ⚖️ | **[CasePilot](https://itsmeshafat.com/webapps/casepilot)** | Full-scale legal CRM for lawyers and legal agencies | `Laravel` `MySQL` `Bootstrap` `API` | 🟢 Live |
+| 🥛 | **[DairyPilot](https://github.com/itsmeshafat/dairypilot)** | ERP and Manufacturing management system for Dairy product manufacturing factory | `Laravel` `Inertia` `PHP` `MySQL` | 🔨 Building |
 
 </div>
 
