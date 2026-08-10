@@ -116,9 +116,9 @@ Blogging platform · Tutorials · AI articles
 
 <br/>
 
-![Laravel](https://img.shields.io/badge/Laravel-0D0D0D?style=flat-square&logo=laravel&logoColor=A855F7)
-![MySQL](https://img.shields.io/badge/MySQL-0D0D0D?style=flat-square&logo=mysql&logoColor=EC4899)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-0D0D0D?style=flat-square&logo=bootstrap&logoColor=F97316)
+![Next.js](https://img.shields.io/badge/Next.js-0D0D0D?style=flat-square&logo=nextdotjs&logoColor=A855F7)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D0D0D?style=flat-square&logo=typescript&logoColor=EC4899)
+![Vercel](https://img.shields.io/badge/Vercel-0D0D0D?style=flat-square&logo=vercel&logoColor=F97316)
 
 <br/>
 
