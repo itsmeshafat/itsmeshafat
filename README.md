@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:6C3AE8,30:A855F7,60:EC4899,100:F97316&height=260&section=header&text=Shafat&fontSize=90&fontColor=ffffff&fontAlignY=42&desc=Full-Stack%20Web%20Engineer%20%E2%80%94%20Laravel%20%C2%B7%20PHP%20%C2%B7%20SaaS&descSize=18&descColor=f3e8ff&descAlignY=62&animation=fadeIn&stroke=ffffff&strokeWidth=1" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:6C3AE8,30:A855F7,60:EC4899,100:F97316&height=260&section=header&text=Shafat&fontSize=90&fontColor=ffffff&fontAlignY=42&desc=Full-S[...]">
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=Building+SaaS+products+that+scale.;Laravel+%7C+WordPress+%7C+PHP+%7C+MySQL+%7C+Redis;CRM+%2F+ERP+%2F+Booking+Systems+%2F+API+Integrations;Clean+code.+Reliable+delivery.+Real+results." />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=Building+SaaS+products+that+scale.;Laravel+%7C[...]">
 
 </div>
 
@@ -30,7 +30,7 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api?username=itsmeshafat&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=A855F7&text_color=e2e8f0&icon_color=EC4899&ring_color=6C3AE8&hide=prs,issues&count_private=true&border_radius=12" />
+<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api?username=itsmeshafat&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=A855F7&text_color=e2e8f0&icon_color[...]">
 
 ```js
 const shafat = {
@@ -107,12 +107,12 @@ const shafat = {
 <tr>
 <td align="center" width="50%">
 
-<img src="https://img.shields.io/badge/⚖️%20CASEPILOT-LIVE-6C3AE8?style=for-the-badge&labelColor=0D0D0D" />
+<img src="https://img.shields.io/badge/📝%20AI%20SHIKHBO-LIVE-6C3AE8?style=for-the-badge&labelColor=0D0D0D" />
 
 <br/><br/>
 
-**Full-scale Legal CRM** for lawyers and law firms.
-Case management · Billing · Documents · Hearings
+**AI Shikhbo** — Personal blog and learning platform focused on AI and tech.
+Blogging platform · Tutorials · AI articles
 
 <br/>
 
@@ -122,7 +122,7 @@ Case management · Billing · Documents · Hearings
 
 <br/>
 
-[![View Live](https://img.shields.io/badge/View%20Live%20→-6C3AE8?style=for-the-badge)](https://itsmeshafat.com/webapps/casepilot)
+[![View Live](https://img.shields.io/badge/View%20Live%20→-6C3AE8?style=for-the-badge)](https://aishikhbo.com)
 
 </td>
 <td align="center" width="50%">
@@ -181,15 +181,15 @@ Inventory · Batch Tracking · Production · Reports
 
 <div align="center">
 
-<img width="49%" src="https://streak-stats.demolab.com?user=itsmeshafat&theme=transparent&hide_border=true&ring=A855F7&fire=F97316&currStreakLabel=A855F7&sideLabels=e2e8f0&dates=6b7280&currStreakNum=ffffff&sideNums=ffffff&background=0D0D0D&border_radius=12" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeshafat&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=A855F7&text_color=e2e8f0&border_radius=12" />
+<img width="49%" src="https://streak-stats.demolab.com?user=itsmeshafat&theme=transparent&hide_border=true&ring=A855F7&fire=F97316&currStreakLabel=A855F7&sideLabels=e2e8f0&dates=6b7280&currStreak[...]
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeshafat&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=A855F7&text_color=e2e8f0&border_radius[...]
 
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=itsmeshafat&theme=react-dark&hide_border=true&area=true&color=A855F7&line=6C3AE8&point=EC4899&bg_color=0D0D0D&area_color=1a0533&border_radius=12" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=itsmeshafat&theme=react-dark&hide_border=true&area=true&color=A855F7&line=6C3AE8&point=EC4899&bg_color=0D0D0D&area_color=1[...]
 </div>
 
 <br/>
