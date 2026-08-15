@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:6C3AE8,30:A855F7,60:EC4899,100:F97316&height=260&section=header&text=Shafat&fontSize=90&fontColor=ffffff&fontAlignY=42&desc=Full-S[...]">
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:6C3AE8,30:A855F7,60:EC4899,100:F97316&height=260&section=header&text=Shafat&fontSize=90&fontColor=ffffff&fontAlignY=42&desc=Full-Stack%20Web%20Engineer%20%7C%20Laravel%20%7C%20SaaS%20Builder&descAlignY=51&descAlign=50">
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=Building+SaaS+products+that+scale.;Laravel+%7C[...]">
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=Building+SaaS+products+that+scale.;Laravel+%7C+WordPress+%7C+PHP+Expert;CRM+%7C+ERP+%7C+Booking+Systems;Full-Stack+Web+Engineer">
 
 </div>
 
@@ -30,7 +30,7 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api?username=itsmeshafat&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=A855F7&text_color=e2e8f0&icon_color[...]">
+<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api?username=itsmeshafat&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=A855F7&text_color=e2e8f0&icon_color=A855F7&ring_color=A855F7&include_all_commits=true&count_private=true">
 
 ```js
 const shafat = {
@@ -181,15 +181,15 @@ Inventory · Batch Tracking · Production · Reports
 
 <div align="center">
 
-<img width="49%" src="https://streak-stats.demolab.com?user=itsmeshafat&theme=transparent&hide_border=true&ring=A855F7&fire=F97316&currStreakLabel=A855F7&sideLabels=e2e8f0&dates=6b7280&currStreak[...]
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeshafat&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=A855F7&text_color=e2e8f0&border_radius[...]
+<img width="49%" src="https://streak-stats.demolab.com?user=itsmeshafat&theme=transparent&hide_border=true&ring=A855F7&fire=F97316&currStreakLabel=A855F7&sideLabels=e2e8f0&dates=6b7280" alt="GitHub Streak">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeshafat&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=A855F7&text_color=e2e8f0&border_radius=10" alt="Top Languages">
 
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=itsmeshafat&theme=react-dark&hide_border=true&area=true&color=A855F7&line=6C3AE8&point=EC4899&bg_color=0D0D0D&area_color=1[...]
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=itsmeshafat&theme=react-dark&hide_border=true&area=true&color=A855F7&line=6C3AE8&point=EC4899&bg_color=0D0D0D&area_color=1A1A2E" alt="Contribution Graph">
 </div>
 
 <br/>
