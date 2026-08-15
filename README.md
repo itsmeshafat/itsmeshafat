@@ -181,15 +181,17 @@ Inventory · Batch Tracking · Production · Reports
 
 <div align="center">
 
-<img width="49%" src="https://streak-stats.demolab.com?user=itsmeshafat&theme=transparent&hide_border=true&ring=A855F7&fire=F97316&currStreakLabel=A855F7&sideLabels=e2e8f0&dates=6b7280" alt="GitHub Streak">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeshafat&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=A855F7&text_color=e2e8f0&border_radius=10" alt="Top Languages">
+[![GitHub Streak](https://streak-stats.demolab.com?user=itsmeshafat&theme=transparent&hide_border=true&ring=A855F7&fire=F97316&currStreakLabel=A855F7&sideLabels=e2e8f0&dates=6b7280)](https://github.com/itsmeshafat)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeshafat&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=A855F7&text_color=e2e8f0&border_radius=10)](https://github.com/itsmeshafat)
 
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=itsmeshafat&theme=react-dark&hide_border=true&area=true&color=A855F7&line=6C3AE8&point=EC4899&bg_color=0D0D0D&area_color=1A1A2E" alt="Contribution Graph">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=itsmeshafat&theme=react-dark&hide_border=true&area=true&color=A855F7&line=6C3AE8&point=EC4899&bg_color=0D0D0D&area_color=1A1A2E)](https://github.com/itsmeshafat)
+
 </div>
 
 <br/>
