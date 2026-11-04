@@ -3,6 +3,9 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:6C3AE8,30:A855F7,60:EC4899,100:F97316&height=260&section=header&text=Shafat&fontSize=90&fontColor=ffffff&fontAlignY=42&desc=Full-Stack%20Web%20Engineer%20%7C%20Laravel%20%7C%20SaaS%20Builder&descAlignY=51&descAlign=50">
 
 </div>
+<br/>
+<br/>
+<br/>
 
 <div align="center">
 
