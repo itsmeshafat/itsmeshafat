@@ -100,16 +100,16 @@ const shafat = {
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://wordpress.org/plugins/frontend-file-explorer/">
-<img src="https://pub-d20612a9856b4616b6d0abdd9824aa73.r2.dev/portfolio/featured/frontend-file-explorer-featured.jpg" width="100%" alt="File Explorer — WordPress plugin"/><br/>
+<a href="https://www.itsmeshafat.com/plugins/filerack">
+<img src="https://pub-d20612a9856b4616b6d0abdd9824aa73.r2.dev/portfolio/site/plugins/filerack/assets/screenshot-1.png" width="100%" alt="File Rack — WordPress file manager"/><br/>
 </a>
 
-**📝 File Explorer** — a fast AJAX file manager for WordPress: browse, upload, and manage files right from wp-admin.
+**🗂️ File Rack** — a slick WordPress file manager with icon packs & share links, distributed via Freemius.
 
 <br/>
 
-[![WordPress.org](https://img.shields.io/badge/WordPress.org-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://wordpress.org/plugins/frontend-file-explorer/)
-[![Live Landing](https://img.shields.io/badge/Live%20Landing-6C3AE8?style=for-the-badge)](https://www.itsmeshafat.com/portfolio/file-explorer-plugin)
+[![Live Landing](https://img.shields.io/badge/Live%20Landing-6C3AE8?style=for-the-badge)](https://www.itsmeshafat.com/plugins/filerack)
+[![Freemius](https://img.shields.io/badge/Freemius-EC4899?style=for-the-badge)](https://www.itsmeshafat.com/plugins/filerack)
 
 </td>
 <td width="50%" valign="top">
@@ -127,34 +127,59 @@ const shafat = {
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
+</table>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+## 🧩 Open Source Projects
+
+> Built solo, end to end — code, docs, landing pages and release pipeline.
+
+### ◈ dev-stack — One-Command Local Dev Stack for macOS
+
+nginx + Apache side by side, multi-PHP, MySQL/PostgreSQL/Redis/Mailpit, trusted HTTPS and a native macOS control app — all from a single install command.
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/View%20on%20GitHub-6C3AE8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itsmeshafat/dev-stack)
+&nbsp;
+[![Landing Page](https://img.shields.io/badge/Landing%20Page-A855F7?style=for-the-badge)](https://www.itsmeshafat.com/apps/dev-stack)
+
+![macOS](https://img.shields.io/badge/macOS-0D0D0D?style=flat-square&logo=apple&logoColor=e2e8f0)
+![nginx](https://img.shields.io/badge/nginx-0D0D0D?style=flat-square&logo=nginx&logoColor=A855F7)
+![Apache](https://img.shields.io/badge/Apache-0D0D0D?style=flat-square&logo=apache&logoColor=EC4899)
+![PHP](https://img.shields.io/badge/Multi%E2%80%91PHP-0D0D0D?style=flat-square&logo=php&logoColor=F97316)
+![Redis](https://img.shields.io/badge/Redis-0D0D0D?style=flat-square&logo=redis&logoColor=A855F7)
+
+</div>
+
+<br/>
+
+### ◈ OpenWA — Self-Hosted WhatsApp Cloud API Gateway
 
 <a href="https://www.itsmeshafat.com/portfolio/openwa-whatsapp-gateway">
-<img src="https://pub-d20612a9856b4616b6d0abdd9824aa73.r2.dev/portfolio/featured/openwa-whatsapp-gateway-featured.jpg" width="100%" alt="OpenWA — WhatsApp Cloud API gateway"/><br/>
+<img src="https://pub-d20612a9856b4616b6d0abdd9824aa73.r2.dev/portfolio/featured/openwa-whatsapp-gateway-featured.jpg" width="60%" alt="OpenWA — WhatsApp Cloud API gateway"/>
 </a>
 
-**💬 OpenWA** — self-hosted WhatsApp Cloud API gateway for WordPress: templates, QR sessions, REST webhooks.
-
 <br/>
 
-[![Live Landing](https://img.shields.io/badge/Live%20Landing-6C3AE8?style=for-the-badge)](https://www.itsmeshafat.com/portfolio/openwa-whatsapp-gateway)
+Send WhatsApp notifications for WooCommerce orders, OTP verification and invoice PDFs — powered by your own self-hosted API gateway with REST webhooks.
 
-</td>
-<td width="50%" valign="top">
+<div align="center">
 
-<br/>
+[![GitHub](https://img.shields.io/badge/View%20on%20GitHub-6C3AE8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itsmeshafat/OpenWA-WhatsApp-Gateway)
+&nbsp;
+[![Landing Page](https://img.shields.io/badge/Landing%20Page-A855F7?style=for-the-badge)](https://www.itsmeshafat.com/portfolio/openwa-whatsapp-gateway)
 
-**🗂️ File Rack** — a rebranded WordPress file manager with icon packs & share links, distributed via Freemius.
+![WhatsApp Cloud API](https://img.shields.io/badge/WhatsApp%20Cloud%20API-0D0D0D?style=flat-square&logo=whatsapp&logoColor=25D366)
+![WordPress](https://img.shields.io/badge/WordPress-0D0D0D?style=flat-square&logo=wordpress&logoColor=A855F7)
+![REST Webhooks](https://img.shields.io/badge/REST%20Webhooks-0D0D0D?style=flat-square)
 
-<br/>
-
-[![Live Landing](https://img.shields.io/badge/Live%20Landing-6C3AE8?style=for-the-badge)](https://www.itsmeshafat.com/plugins/filerack)
-[![Freemius](https://img.shields.io/badge/Freemius-6C3AE8?style=for-the-badge)](https://www.itsmeshafat.com/plugins/filerack)
-
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
