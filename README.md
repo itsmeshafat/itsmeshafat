@@ -1,129 +1,157 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:6C3AE8,30:A855F7,60:EC4899,100:F97316&height=260&section=header&text=Shafat&fontSize=90&fontColor=ffffff&fontAlignY=42&desc=<br/>
-<br/>Full-Stack%20Web%20Engineer%20%7C%20Laravel%20%7C%20SaaS%20Builder&descAlignY=51&descAlign=50">
-
-</div>
-<br/>
+<!-- ◤━━━━━━━━━━━━━━━━━━━━━━ SHAFAT ◆ MAHMUD ◆ KHAN ━━━━━━━━━━━━━━━━━━━━━━◥ -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=Building+SaaS+products+that+scale.;Laravel+%7C+WordPress+%7C+PHP+Expert;CRM+%7C+ERP+%7C+Booking+Systems;Full-Stack+Web+Engineer">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C3AE8,35:A855F7,70:EC4899,100:F97316&height=200&section=header&text=SHAFAT&fontSize=78&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Engineer%20◆%20Laravel%20◆%20SaaS%20Builder%20◆%20WordPress&descAlignY=55&descAlign=50&animation=fadeIn" alt="Shafat — header"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1100&color=A855F7&center=true&vCenter=true&width=720&lines=%E2%96%B6+Building+SaaS+products+that+scale.%E2%97%80;%E2%96%B6+Laravel+%7C+WordPress+%7C+PHP+Expert%E2%97%80;%E2%96%B6+CRM+%7C+ERP+%7C+Booking+Systems%E2%97%80;%E2%96%B6+Shipping+from+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9+to+the+world%E2%97%80" alt="typing"/>
 
 </div>
 
 <br/>
 
+<!-- ◤━━━━━━━━━━━━━━━━━━━━━━━━━ CONNECT ━━━━━━━━━━━━━━━━━━━━━━━━━━◥ -->
+
 <div align="center">
 
-[![Facebook](https://img.shields.io/badge/Facebook-%236C3AE8?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/itsmeshafat)
-[![Instagram](https://img.shields.io/badge/Instagram-%23A855F7?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/itsme_shafat)
-[![Threads](https://img.shields.io/badge/Threads-%23EC4899?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.com/itsme_shafat)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%23F97316?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=8801644413150)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%236C3AE8?style=for-the-badge&logo=safari&logoColor=white)](https://itsmeshafat.com)
+[![Portfolio](https://img.shields.io/badge/itsmeshafat.com-6C3AE8?style=flat-square&logo=safari&logoColor=white)](https://itsmeshafat.com)
+[![Facebook](https://img.shields.io/badge/Facebook-A855F7?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/itsmeshafat)
+[![Instagram](https://img.shields.io/badge/Instagram-EC4899?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/itsme_shafat)
+[![Threads](https://img.shields.io/badge/Threads-F97316?style=flat-square&logo=threads&logoColor=white)](https://www.threads.com/itsme_shafat)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-6C3AE8?style=flat-square&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=8801644413150)
 
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- ◤━━━━━━━━━━━━━━━━━━━━━━━━━ ABOUT ━━━━━━━━━━━━━━━━━━━━━━━━━━◥ -->
 
-<br/>
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6C3AE8,50:A855F7,100:EC4899&height=3" alt=""/>
+</div>
 
-## 🧑‍💻 About Me
+### `🧑‍💻 ~ whoami`
 
-<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api?username=itsmeshafat&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=A855F7&text_color=e2e8f0&icon_color=A855F7&ring_color=A855F7&include_all_commits=true&count_private=true">
+```php
+class Shafat extends FullStackEngineer
+{
+    public string $location = "Bangladesh 🇧🇩";
+    public array  $focus    = ["SaaS", "CRM", "ERP", "Booking Systems"];
+    public array  $stack    = ["Laravel", "WordPress", "PHP", "MySQL", "Redis"];
+    public bool   $open_for_freelance = true;
 
-```js
-const shafat = {
-  role     : "Full-Stack Web Engineer",
-  location : "Bangladesh 🇧🇩",
-  focus    : ["SaaS", "CRM", "ERP", "Booking Systems"],
-  stack    : ["Laravel", "WordPress", "PHP", "MySQL"],
-  status   : "Open for freelance work ✅",
-  contact  : "wa.me/8801644413150"
-};
+    public function philosophy(): array
+    {
+        return [
+            "Build things that matter.",
+            "Ship code that lasts.",
+            "Leave the codebase better than you found it.",
+        ];
+    }
+}
 ```
 
 <br/>
 
-- 🚀 &nbsp; I build **complete web products** — backend, frontend, infra
-- 💼 &nbsp; Focused on **business-grade SaaS** for real-world operations
-- 🔌 &nbsp; Skilled at complex **API integrations** — payments, maps, auth
-- 💬 &nbsp; Let's discuss your project — **I'm available for freelance**
-
-<br clear="right"/>
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:EC4899,50:A855F7,100:6C3AE8&height=3" alt=""/>
+</div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- ◤━━━━━━━━━━━━━━━━━━━━━━ FEATURED: SAASITUDE ━━━━━━━━━━━━━━━━━━━━━━◥ -->
 
-<br/>
-
-## ⚡ Featured Products
-
-### ◈ SaaSitude — Open-Source Laravel SaaS Boilerplate
+## ⚡ Flagship · SaaSitude
 
 <div align="center">
 
 <a href="https://youtu.be/fhKQv4Cgoak">
-<img src="https://pub-d20612a9856b4616b6d0abdd9824aa73.r2.dev/portfolio/featured/saasitude-laravel-saas-boilerplate-featured.jpg" width="82%" alt="SaaSitude — Laravel SaaS Boilerplate"/>
+<img src="https://pub-d20612a9856b4616b6d0abdd9824aa73.r2.dev/portfolio/featured/saasitude-laravel-saas-boilerplate-featured.jpg" width="84%" alt="SaaSitude — Laravel SaaS Boilerplate"/>
 </a>
 
+<br/><br/>
+
+**Stop rebuilding billing.** The open-source Laravel SaaS boilerplate with Stripe, Paddle & SSLCommerz behind one interface — workspaces, entitlements, admin console, mobile API and a 5-step installer.
+
+<br/>
+
+[![▶ Watch the Demo](https://img.shields.io/badge/▶_Watch_the_Demo-F97316?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/fhKQv4Cgoak)
+[![GitHub](https://img.shields.io/badge/Star_on_GitHub-6C3AE8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itsmeshafat/saasitude)
+[![Product Tour](https://img.shields.io/badge/Product_Tour-A855F7?style=for-the-badge)](https://www.itsmeshafat.com/apps/saasitude/)
+
 </div>
 
 <br/>
 
-**Stop rebuilding billing.** Stripe, Paddle & SSLCommerz behind one interface — workspaces, entitlements, admin console, mobile API and a 5-step installer. Free & open source.
+<!-- ◤━━━━━━━━━━━━━━━━━━━━━━ WORDPRESS PLUGINS ━━━━━━━━━━━━━━━━━━━━━━◥ -->
+
+## 🧩 WordPress Plugins in Production
 
 <div align="center">
-
-[![▶ Watch the Demo](https://img.shields.io/badge/%E2%96%B6%20Watch%20the%20Demo-F97316?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/fhKQv4Cgoak)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/Get%20it%20on%20GitHub-6C3AE8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itsmeshafat/saasitude)
-&nbsp;
-[![Product Tour](https://img.shields.io/badge/Product%20Tour-A855F7?style=for-the-badge)](https://www.itsmeshafat.com/apps/saasitude/)
-
-![Laravel 13](https://img.shields.io/badge/Laravel%2013-0D0D0D?style=flat-square&logo=laravel&logoColor=A855F7)
-![Stripe](https://img.shields.io/badge/Stripe-0D0D0D?style=flat-square&logo=stripe&logoColor=EC4899)
-![Paddle](https://img.shields.io/badge/Paddle-0D0D0D?style=flat-square&logo=paddle&logoColor=F97316)
-![SSLCommerz](https://img.shields.io/badge/SSLCommerz-0D0D0D?style=flat-square)
-![MIT License](https://img.shields.io/badge/MIT-0D0D0D?style=flat-square)
-
-</div>
-
-<br/>
-
-### ◈ WordPress Plugins in Production
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 <a href="https://www.itsmeshafat.com/plugins/filerack">
-<img src="https://pub-d20612a9856b4616b6d0abdd9824aa73.r2.dev/portfolio/site/plugins/filerack/assets/screenshot-1.png" width="100%" alt="File Rack — WordPress file manager"/><br/>
-</a>
+<img src="https://pub-d20612a9856b4616b6d0abdd9824aa73.r2.dev/portfolio/site/plugins/filerack/assets/screenshot-1.png" width="100%" alt="File Rack"/></a>
 
-**🗂️ File Rack** — a slick WordPress file manager with icon packs & share links, distributed via Freemius.
+### 🗂️ File Rack
 
-<br/>
+Slick file manager with icon packs & share links, distributed via Freemius.
 
-[![Live Landing](https://img.shields.io/badge/Live%20Landing-6C3AE8?style=for-the-badge)](https://www.itsmeshafat.com/plugins/filerack)
-[![Freemius](https://img.shields.io/badge/Freemius-EC4899?style=for-the-badge)](https://www.itsmeshafat.com/plugins/filerack)
+[![Landing](https://img.shields.io/badge/Landing-6C3AE8?style=flat-square)](https://www.itsmeshafat.com/plugins/filerack)
+[![Freemius](https://img.shields.io/badge/Freemius-EC4899?style=flat-square)](https://www.itsmeshafat.com/plugins/filerack)
 
 </td>
 <td width="50%" valign="top">
 
 <a href="https://www.itsmeshafat.com/plugins/goldpilot/">
-<img src="https://pub-d20612a9856b4616b6d0abdd9824aa73.r2.dev/portfolio/featured/precious-metal-pricing-featured.jpg" width="100%" alt="GoldPilot — WooCommerce precious metal pricing"/><br/>
-</a>
+<img src="https://pub-d20612a9856b4616b6d0abdd9824aa73.r2.dev/portfolio/featured/precious-metal-pricing-featured.jpg" width="100%" alt="GoldPilot"/></a>
 
-**🥇 GoldPilot** — WooCommerce precious-metal pricing: live gold/silver rates, automatic price recalculation, and per-product metal rules.
+### 🥇 GoldPilot
+
+WooCommerce precious-metal pricing — live gold/silver rates, per-product metal rules.
+
+[![Landing](https://img.shields.io/badge/Landing-6C3AE8?style=flat-square)](https://www.itsmeshafat.com/plugins/goldpilot/)
+[![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white)](https://www.itsmeshafat.com/plugins/goldpilot/)
+
+</td>
+</tr>
+</table>
+
+</div>
 
 <br/>
 
-[![Live Landing](https://img.shields.io/badge/Live%20Landing-6C3AE8?style=for-the-badge)](https://www.itsmeshafat.com/plugins/goldpilot/)
-[![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)](https://www.itsmeshafat.com/plugins/goldpilot/)
+<!-- ◤━━━━━━━━━━━━━━━━━━━━━━ OPEN SOURCE ━━━━━━━━━━━━━━━━━━━━━━◥ -->
+
+## 🔓 Open Source · Built Solo, End to End
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🖥️ dev-stack
+
+One-command local dev stack for **macOS** — nginx + Apache side by side, multi-PHP, MySQL/PostgreSQL/Redis/Mailpit, trusted HTTPS, native control app.
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-6C3AE8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itsmeshafat/dev-stack)
+[![Landing](https://img.shields.io/badge/Landing-A855F7?style=for-the-badge)](https://www.itsmeshafat.com/apps/dev-stack)
+
+</td>
+<td width="50%" valign="top">
+
+### 💬 OpenWA Gateway
+
+Self-hosted **WhatsApp Cloud API** gateway — WooCommerce order notifications, OTP verification, invoice PDFs, REST webhooks.
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-6C3AE8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itsmeshafat/OpenWA-WhatsApp-Gateway)
+[![Landing](https://img.shields.io/badge/Landing-A855F7?style=for-the-badge)](https://www.itsmeshafat.com/portfolio/openwa-whatsapp-gateway)
 
 </td>
 </tr>
@@ -131,63 +159,9 @@ const shafat = {
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- ◤━━━━━━━━━━━━━━━━━━━━━━ VIDEOS ━━━━━━━━━━━━━━━━━━━━━━◥ -->
 
-<br/>
-
-## 🧩 Open Source Projects
-
-> Built solo, end to end — code, docs, landing pages and release pipeline.
-
-### ◈ dev-stack — One-Command Local Dev Stack for macOS
-
-nginx + Apache side by side, multi-PHP, MySQL/PostgreSQL/Redis/Mailpit, trusted HTTPS and a native macOS control app — all from a single install command.
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/View%20on%20GitHub-6C3AE8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itsmeshafat/dev-stack)
-&nbsp;
-[![Landing Page](https://img.shields.io/badge/Landing%20Page-A855F7?style=for-the-badge)](https://www.itsmeshafat.com/apps/dev-stack)
-
-![macOS](https://img.shields.io/badge/macOS-0D0D0D?style=flat-square&logo=apple&logoColor=e2e8f0)
-![nginx](https://img.shields.io/badge/nginx-0D0D0D?style=flat-square&logo=nginx&logoColor=A855F7)
-![Apache](https://img.shields.io/badge/Apache-0D0D0D?style=flat-square&logo=apache&logoColor=EC4899)
-![PHP](https://img.shields.io/badge/Multi%E2%80%91PHP-0D0D0D?style=flat-square&logo=php&logoColor=F97316)
-![Redis](https://img.shields.io/badge/Redis-0D0D0D?style=flat-square&logo=redis&logoColor=A855F7)
-
-</div>
-
-<br/>
-
-### ◈ OpenWA — Self-Hosted WhatsApp Cloud API Gateway
-
-<a href="https://www.itsmeshafat.com/portfolio/openwa-whatsapp-gateway">
-<img src="https://pub-d20612a9856b4616b6d0abdd9824aa73.r2.dev/portfolio/featured/openwa-whatsapp-gateway-featured.jpg" width="60%" alt="OpenWA — WhatsApp Cloud API gateway"/>
-</a>
-
-<br/>
-
-Send WhatsApp notifications for WooCommerce orders, OTP verification and invoice PDFs — powered by your own self-hosted API gateway with REST webhooks.
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/View%20on%20GitHub-6C3AE8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itsmeshafat/OpenWA-WhatsApp-Gateway)
-&nbsp;
-[![Landing Page](https://img.shields.io/badge/Landing%20Page-A855F7?style=for-the-badge)](https://www.itsmeshafat.com/portfolio/openwa-whatsapp-gateway)
-
-![WhatsApp Cloud API](https://img.shields.io/badge/WhatsApp%20Cloud%20API-0D0D0D?style=flat-square&logo=whatsapp&logoColor=25D366)
-![WordPress](https://img.shields.io/badge/WordPress-0D0D0D?style=flat-square&logo=wordpress&logoColor=A855F7)
-![REST Webhooks](https://img.shields.io/badge/REST%20Webhooks-0D0D0D?style=flat-square)
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-
-## 🎬 Videos
+## 🎬 Videos & Guides
 
 <div align="center">
 
@@ -196,31 +170,28 @@ Send WhatsApp notifications for WooCommerce orders, OTP verification and invoice
 <td width="33%" align="center" valign="top">
 
 <a href="https://youtu.be/fhKQv4Cgoak">
-<img src="https://img.youtube.com/vi/fhKQv4Cgoak/mqdefault.jpg" width="100%" alt="SaaSitude demo video"/>
-</a>
+<img src="https://img.youtube.com/vi/fhKQv4Cgoak/mqdefault.jpg" width="100%" alt="SaaSitude demo"/></a>
 
-**SaaSitude — Stop Rebuilding Billing**<br/>
-<sub>Full product demo of the Laravel SaaS boilerplate</sub>
+**SaaSitude Demo**<br/>
+<sub>Stop rebuilding billing — full product tour</sub>
 
 </td>
 <td width="33%" align="center" valign="top">
 
 <a href="https://youtu.be/iiKMgT5FlHw">
-<img src="https://img.youtube.com/vi/iiKMgT5FlHw/mqdefault.jpg" width="100%" alt="OpenWA server installation guide"/>
-</a>
+<img src="https://img.youtube.com/vi/iiKMgT5FlHw/mqdefault.jpg" width="100%" alt="OpenWA server setup"/></a>
 
-**OpenWA Gateway Server Setup**<br/>
-<sub>Host your own WhatsApp automation server</sub>
+**OpenWA Server Setup**<br/>
+<sub>Host your own WhatsApp gateway</sub>
 
 </td>
 <td width="33%" align="center" valign="top">
 
 <a href="https://youtu.be/0QRfJd-k3dg">
-<img src="https://img.youtube.com/vi/0QRfJd-k3dg/mqdefault.jpg" width="100%" alt="OpenWA plugin walkthrough"/>
-</a>
+<img src="https://img.youtube.com/vi/0QRfJd-k3dg/mqdefault.jpg" width="100%" alt="OpenWA plugin walkthrough"/></a>
 
-**OpenWA Plugin Walkthrough**<br/>
-<sub>Templates, settings & QR-code sessions</sub>
+**OpenWA Walkthrough**<br/>
+<sub>Templates, settings & QR sessions</sub>
 
 </td>
 </tr>
@@ -230,57 +201,34 @@ Send WhatsApp notifications for WooCommerce orders, OTP verification and invoice
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- ◤━━━━━━━━━━━━━━━━━━━━━━ TECH STACK ━━━━━━━━━━━━━━━━━━━━━━◥ -->
 
-<br/>
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6C3AE8,50:A855F7,100:EC4899&height=3" alt=""/>
+</div>
 
-## 🛠️ Tech Stack
+### `🛠️ ~ tech_stack`
 
 <div align="center">
 
-### ◈ Languages
-
-![PHP](https://img.shields.io/badge/PHP-%236C3AE8?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23A855F7?style=for-the-badge&logo=javascript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23EC4899?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%23F97316?style=for-the-badge&logo=css3&logoColor=white)
-
-### ◈ Frameworks & CMS
-
-![Laravel](https://img.shields.io/badge/Laravel-%236C3AE8?style=for-the-badge&logo=laravel&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23A855F7?style=for-the-badge&logo=wordpress&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23EC4899?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Inertia.js](https://img.shields.io/badge/Inertia.js-%23F97316?style=for-the-badge&logo=inertia&logoColor=white)
-
-### ◈ Database & Infrastructure
-
-![MySQL](https://img.shields.io/badge/MySQL-%236C3AE8?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23A855F7?style=for-the-badge&logo=redis&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-%23EC4899?style=for-the-badge&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-%23F97316?style=for-the-badge&logo=linux&logoColor=white)
-
-### ◈ Tools
-
-![Git](https://img.shields.io/badge/Git-%236C3AE8?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23A855F7?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-%23EC4899?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-%23F97316?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Composer](https://img.shields.io/badge/Composer-%236C3AE8?style=for-the-badge&logo=composer&logoColor=white)
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=php,laravel,js,wordpress,mysql,redis&theme=dark" alt="core stack"/>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,nginx,linux,git&theme=dark" alt="tooling"/>
+</a>
 
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- ◤━━━━━━━━━━━━━━━━━━━━━━ SERVICES ━━━━━━━━━━━━━━━━━━━━━━◥ -->
 
-<br/>
-
-## 💼 What I Build For Clients
+### `💼 ~ what_i_build`
 
 <div align="center">
 
-| | Service | Details |
-|---|---|---|
+| | | |
+|:---:|---|---|
 | ⚡ | **SaaS & Web Apps** | Multi-tenant backends, admin dashboards, subscription billing |
 | 📅 | **Booking Systems** | Reservation engines, availability calendars, payment flows |
 | 📊 | **CRM & ERP Tools** | Client management, inventory, production, reporting |
@@ -292,22 +240,22 @@ Send WhatsApp notifications for WooCommerce orders, OTP verification and invoice
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-
-## 📊 GitHub Stats
+<!-- ◤━━━━━━━━━━━━━━━━━━━━━━ STATS ━━━━━━━━━━━━━━━━━━━━━━◥ -->
 
 <div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=itsmeshafat&theme=transparent&hide_border=true&ring=A855F7&fire=F97316&currStreakLabel=A855F7&sideLabels=e2e8f0&dates=6b7280)](https://github.com/itsmeshafat)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeshafat&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=A855F7&text_color=e2e8f0&border_radius=10)](https://github.com/itsmeshafat)
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:EC4899,50:A855F7,100:6C3AE8&height=3" alt=""/>
 </div>
 
-<br/>
+### `📊 ~ github_stats`
 
 <div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=itsmeshafat&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=A855F7&text_color=e2e8f0&icon_color=A855F7&ring_color=A855F7&include_all_commits=true&count_private=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeshafat&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=A855F7&text_color=e2e8f0&border_radius=10" width="41%"/>
+
+<br/><br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=itsmeshafat&theme=transparent&hide_border=true&ring=A855F7&fire=F97316&currStreakLabel=A855F7&sideLabels=e2e8f0&dates=6b7280)](https://github.com/itsmeshafat)
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=itsmeshafat&theme=react-dark&hide_border=true&area=true&color=A855F7&line=6C3AE8&point=EC4899&bg_color=0D0D0D&area_color=1A1A2E)](https://github.com/itsmeshafat)
 
@@ -315,28 +263,37 @@ Send WhatsApp notifications for WooCommerce orders, OTP verification and invoice
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-
-## 📬 Hire Me
+<!-- ◤━━━━━━━━━━━━━━━━━━━━━━ HIRE ME ━━━━━━━━━━━━━━━━━━━━━━◥ -->
 
 <div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6C3AE8,50:A855F7,100:EC4899&height=3" alt=""/>
+</div>
 
-> **Available for freelance projects globally.** If you need a reliable developer who delivers — let's talk.
+### `📬 ~ hire_me`
 
-<br/>
-
-[![WhatsApp](https://img.shields.io/badge/💬%20Message%20on%20WhatsApp-25D366?style=for-the-badge&logoColor=white)](https://api.whatsapp.com/send?phone=8801644413150)
-&nbsp;&nbsp;
-[![Facebook](https://img.shields.io/badge/👤%20Connect%20on%20Facebook-1877F2?style=for-the-badge&logoColor=white)](https://www.facebook.com/itsmeshafat)
-&nbsp;&nbsp;
-[![Instagram](https://img.shields.io/badge/📸%20Follow%20on%20Instagram-E4405F?style=for-the-badge&logoColor=white)](https://instagram.com/itsme_shafat)
+> **Available for freelance projects globally.**
+> If you need a reliable developer who delivers — let's talk.
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=itsmeshafat&color=A855F7&style=for-the-badge&label=PROFILE+VIEWS)
+[![WhatsApp](https://img.shields.io/badge/💬_Message_on_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=8801644413150)
+[![Facebook](https://img.shields.io/badge/👤_Connect_on_Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/itsmeshafat)
+[![Instagram](https://img.shields.io/badge/📸_Follow_on_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/itsme_shafat)
+
+<br/>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=itsmeshafat&color=A855F7&style=flat-square&label=VISITORS)
+&nbsp;
+![Profile Status](https://img.shields.io/badge/STATUS-AVAILABLE_FOR_WORK-6C3AE8?style=flat-square)
+
+<br/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:F97316,30:EC4899,60:A855F7,100:6C3AE8&height=120&section=footer&animation=fadeIn" />
+<br/>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F97316,35:EC4899,70:A855F7,100:6C3AE8&height=120&section=footer&animation=fadeIn" alt="footer"/>
+
+</div>
