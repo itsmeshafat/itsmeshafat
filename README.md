@@ -168,11 +168,11 @@ Workspaces · Entitlements · Admin Console · Mobile API · 5-Step Installer
 
 <br/>
 
-[![SaaSitude — Stop Rebuilding Billing | Laravel SaaS Boilerplate (FREE, Open Source)](https://img.youtube.com/vi/SshLka173Xo/maxresdefault.jpg)](https://youtu.be/SshLka173Xo)
+[![SaaSitude — Stop Rebuilding Billing | Laravel SaaS Boilerplate (FREE, Open Source)](https://img.youtube.com/vi/fhKQv4Cgoak/maxresdefault.jpg)](https://youtu.be/fhKQv4Cgoak)
 
 <br/>
 
-[![▶ Watch the Demo](https://img.shields.io/badge/%E2%96%B6%20Watch%20the%20Demo-F97316?style=for-the-badge)](https://youtu.be/SshLka173Xo)
+[![▶ Watch the Demo](https://img.shields.io/badge/%E2%96%B6%20Watch%20the%20Demo-F97316?style=for-the-badge)](https://youtu.be/fhKQv4Cgoak)
 &nbsp;
 [![Get it on GitHub](https://img.shields.io/badge/Get%20it%20on%20GitHub-6C3AE8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itsmeshafat/saasitude)
 &nbsp;
