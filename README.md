@@ -148,6 +148,38 @@ Inventory · Batch Tracking · Production · Reports
 
 </td>
 </tr>
+<tr>
+<td colspan="2" align="center">
+
+<img src="https://img.shields.io/badge/⚡%20SAASITUDE-FREE%20%26%20OPEN%20SOURCE-F97316?style=for-the-badge&labelColor=0D0D0D" />
+
+<br/><br/>
+
+**Laravel SaaS boilerplate** — Stripe · Paddle · SSLCommerz billing behind one interface.
+Workspaces · Entitlements · Admin Console · Mobile API · 5-Step Installer
+
+<br/>
+
+![Laravel 13](https://img.shields.io/badge/Laravel%2013-0D0D0D?style=flat-square&logo=laravel&logoColor=A855F7)
+![Stripe](https://img.shields.io/badge/Stripe-0D0D0D?style=flat-square&logo=stripe&logoColor=EC4899)
+![Paddle](https://img.shields.io/badge/Paddle-0D0D0D?style=flat-square&logo=paddle&logoColor=F97316)
+![SSLCommerz](https://img.shields.io/badge/SSLCommerz-0D0D0D?style=flat-square)
+![MIT](https://img.shields.io/badge/MIT-0D0D0D?style=flat-square)
+
+<br/>
+
+[![SaaSitude — Stop Rebuilding Billing | Laravel SaaS Boilerplate (FREE, Open Source)](https://img.youtube.com/vi/SshLka173Xo/maxresdefault.jpg)](https://youtu.be/SshLka173Xo)
+
+<br/>
+
+[![▶ Watch the Demo](https://img.shields.io/badge/%E2%96%B6%20Watch%20the%20Demo-F97316?style=for-the-badge)](https://youtu.be/SshLka173Xo)
+&nbsp;
+[![Get it on GitHub](https://img.shields.io/badge/Get%20it%20on%20GitHub-6C3AE8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itsmeshafat/saasitude)
+&nbsp;
+[![Product Tour](https://img.shields.io/badge/Product%20Tour-A855F7?style=for-the-badge)](https://www.itsmeshafat.com/apps/saasitude/)
+
+</td>
+</tr>
 </table>
 
 </div>
