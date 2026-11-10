@@ -2,9 +2,9 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C3AE8,35:A855F7,70:EC4899,100:F97316&height=200&section=header&text=SHAFAT&fontSize=78&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Engineer%20◆%20Laravel%20◆%20SaaS%20Builder%20◆%20WordPress&descAlignY=55&descAlign=50&animation=fadeIn" alt="Shafat — header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2D7AF6,40:10B981,100:F59E0B&height=200&section=header&text=SHAFAT&fontSize=78&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Engineer%20◆%20Laravel%20◆%20SaaS%20Builder%20◆%20WordPress&descAlignY=55&descAlign=50&animation=fadeIn" alt="Shafat — header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1100&color=A855F7&center=true&vCenter=true&width=720&lines=%E2%96%B6+Building+SaaS+products+that+scale.%E2%97%80;%E2%96%B6+Laravel+%7C+WordPress+%7C+PHP+Expert%E2%97%80;%E2%96%B6+CRM+%7C+ERP+%7C+Booking+Systems%E2%97%80;%E2%96%B6+Shipping+from+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9+to+the+world%E2%97%80" alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1100&color=10B981&center=true&vCenter=true&width=720&lines=%E2%96%B6+Building+SaaS+products+that+scale.%E2%97%80;%E2%96%B6+Laravel+%7C+WordPress+%7C+PHP+Expert%E2%97%80;%E2%96%B6+CRM+%7C+ERP+%7C+Booking+Systems%E2%97%80;%E2%96%B6+Shipping+from+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9+to+the+world%E2%97%80" alt="typing"/>
 
 </div>
 
@@ -14,11 +14,11 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/itsmeshafat.com-6C3AE8?style=flat-square&logo=safari&logoColor=white)](https://itsmeshafat.com)
-[![Facebook](https://img.shields.io/badge/Facebook-A855F7?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/itsmeshafat)
-[![Instagram](https://img.shields.io/badge/Instagram-EC4899?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/itsme_shafat)
-[![Threads](https://img.shields.io/badge/Threads-F97316?style=flat-square&logo=threads&logoColor=white)](https://www.threads.com/itsme_shafat)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-6C3AE8?style=flat-square&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=8801644413150)
+[![Portfolio](https://img.shields.io/badge/itsmeshafat.com-2D7AF6?style=flat-square&logo=safari&logoColor=white)](https://itsmeshafat.com)
+[![Facebook](https://img.shields.io/badge/Facebook-10B981?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/itsmeshafat)
+[![Instagram](https://img.shields.io/badge/Instagram-F59E0B?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/itsme_shafat)
+[![Threads](https://img.shields.io/badge/Threads-F59E0B?style=flat-square&logo=threads&logoColor=white)](https://www.threads.com/itsme_shafat)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-2D7AF6?style=flat-square&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=8801644413150)
 
 </div>
 
@@ -27,7 +27,7 @@
 <!-- ◤━━━━━━━━━━━━━━━━━━━━━━━━━ ABOUT ━━━━━━━━━━━━━━━━━━━━━━━━━━◥ -->
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6C3AE8,50:A855F7,100:EC4899&height=3" alt=""/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2D7AF6,50:10B981,100:F59E0B&height=3" alt=""/>
 </div>
 
 ### `🧑‍💻 ~ whoami`
@@ -54,7 +54,7 @@ class Shafat extends FullStackEngineer
 <br/>
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:EC4899,50:A855F7,100:6C3AE8&height=3" alt=""/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:F59E0B,50:10B981,100:2D7AF6&height=3" alt=""/>
 </div>
 
 <br/>
@@ -75,9 +75,9 @@ class Shafat extends FullStackEngineer
 
 <br/>
 
-[![▶ Watch the Demo](https://img.shields.io/badge/▶_Watch_the_Demo-F97316?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/fhKQv4Cgoak)
-[![GitHub](https://img.shields.io/badge/Star_on_GitHub-6C3AE8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itsmeshafat/saasitude)
-[![Product Tour](https://img.shields.io/badge/Product_Tour-A855F7?style=for-the-badge)](https://www.itsmeshafat.com/apps/saasitude/)
+[![▶ Watch the Demo](https://img.shields.io/badge/▶_Watch_the_Demo-F59E0B?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/fhKQv4Cgoak)
+[![GitHub](https://img.shields.io/badge/Star_on_GitHub-2D7AF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itsmeshafat/saasitude)
+[![Product Tour](https://img.shields.io/badge/Product_Tour-10B981?style=for-the-badge)](https://www.itsmeshafat.com/apps/saasitude/)
 
 </div>
 
@@ -100,8 +100,8 @@ class Shafat extends FullStackEngineer
 
 Slick file manager with icon packs & share links, distributed via Freemius.
 
-[![Landing](https://img.shields.io/badge/Landing-6C3AE8?style=flat-square)](https://www.itsmeshafat.com/plugins/filerack)
-[![Freemius](https://img.shields.io/badge/Freemius-EC4899?style=flat-square)](https://www.itsmeshafat.com/plugins/filerack)
+[![Landing](https://img.shields.io/badge/Landing-2D7AF6?style=flat-square)](https://www.itsmeshafat.com/plugins/filerack)
+[![Freemius](https://img.shields.io/badge/Freemius-F59E0B?style=flat-square)](https://www.itsmeshafat.com/plugins/filerack)
 
 </td>
 <td width="50%" valign="top">
@@ -113,7 +113,7 @@ Slick file manager with icon packs & share links, distributed via Freemius.
 
 WooCommerce precious-metal pricing — live gold/silver rates, per-product metal rules.
 
-[![Landing](https://img.shields.io/badge/Landing-6C3AE8?style=flat-square)](https://www.itsmeshafat.com/plugins/goldpilot/)
+[![Landing](https://img.shields.io/badge/Landing-2D7AF6?style=flat-square)](https://www.itsmeshafat.com/plugins/goldpilot/)
 [![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white)](https://www.itsmeshafat.com/plugins/goldpilot/)
 
 </td>
@@ -138,8 +138,8 @@ One-command local dev stack for **macOS** — nginx + Apache side by side, multi
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/View_on_GitHub-6C3AE8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itsmeshafat/dev-stack)
-[![Landing](https://img.shields.io/badge/Landing-A855F7?style=for-the-badge)](https://www.itsmeshafat.com/apps/dev-stack)
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-2D7AF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itsmeshafat/dev-stack)
+[![Landing](https://img.shields.io/badge/Landing-10B981?style=for-the-badge)](https://www.itsmeshafat.com/apps/dev-stack)
 
 </td>
 <td width="50%" valign="top">
@@ -150,8 +150,8 @@ Self-hosted **WhatsApp Cloud API** gateway — WooCommerce order notifications, 
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/View_on_GitHub-6C3AE8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itsmeshafat/OpenWA-WhatsApp-Gateway)
-[![Landing](https://img.shields.io/badge/Landing-A855F7?style=for-the-badge)](https://www.itsmeshafat.com/portfolio/openwa-whatsapp-gateway)
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-2D7AF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itsmeshafat/OpenWA-WhatsApp-Gateway)
+[![Landing](https://img.shields.io/badge/Landing-10B981?style=for-the-badge)](https://www.itsmeshafat.com/portfolio/openwa-whatsapp-gateway)
 
 </td>
 </tr>
@@ -204,7 +204,7 @@ Self-hosted **WhatsApp Cloud API** gateway — WooCommerce order notifications, 
 <!-- ◤━━━━━━━━━━━━━━━━━━━━━━ TECH STACK ━━━━━━━━━━━━━━━━━━━━━━◥ -->
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6C3AE8,50:A855F7,100:EC4899&height=3" alt=""/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2D7AF6,50:10B981,100:F59E0B&height=3" alt=""/>
 </div>
 
 ### `🛠️ ~ tech_stack`
@@ -243,31 +243,28 @@ Self-hosted **WhatsApp Cloud API** gateway — WooCommerce order notifications, 
 <!-- ◤━━━━━━━━━━━━━━━━━━━━━━ STATS ━━━━━━━━━━━━━━━━━━━━━━◥ -->
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:EC4899,50:A855F7,100:6C3AE8&height=3" alt=""/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:F59E0B,50:10B981,100:2D7AF6&height=3" alt=""/>
 </div>
 
 ### `📊 ~ github_stats`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=itsmeshafat&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=A855F7&text_color=e2e8f0&icon_color=A855F7&ring_color=A855F7&include_all_commits=true&count_private=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeshafat&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=A855F7&text_color=e2e8f0&border_radius=10" width="41%"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=itsmeshafat&theme=transparent&hide_border=true&ring=10B981&fire=F59E0B&currStreakLabel=10B981&sideLabels=e2e8f0&dates=6b7280)](https://github.com/itsmeshafat)
 
 <br/><br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=itsmeshafat&theme=transparent&hide_border=true&ring=A855F7&fire=F97316&currStreakLabel=A855F7&sideLabels=e2e8f0&dates=6b7280)](https://github.com/itsmeshafat)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=itsmeshafat&theme=react-dark&hide_border=true&area=true&color=A855F7&line=6C3AE8&point=EC4899&bg_color=0D0D0D&area_color=1A1A2E)](https://github.com/itsmeshafat)
+[![Activity Chart](https://ghchart.rshah.org/2D7AF6/itsmeshafat)](https://github.com/itsmeshafat)
 
 </div>
 
 <br/>
 
-<!-- ◤━━━━━━━━━━━━━━━━━━━━━━ HIRE ME ━━━━━━━━━━━━━━━━━━━━━━◥ -->
-
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6C3AE8,50:A855F7,100:EC4899&height=3" alt=""/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2D7AF6,50:10B981,100:F59E0B&height=3" alt=""/>
 </div>
+
+<br/>
 
 ### `📬 ~ hire_me`
 
@@ -282,9 +279,9 @@ Self-hosted **WhatsApp Cloud API** gateway — WooCommerce order notifications, 
 
 <br/>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=itsmeshafat&color=A855F7&style=flat-square&label=VISITORS)
+![Visitor Count](https://komarev.com/ghpvc/?username=itsmeshafat&color=10B981&style=flat-square&label=VISITORS)
 &nbsp;
-![Profile Status](https://img.shields.io/badge/STATUS-AVAILABLE_FOR_WORK-6C3AE8?style=flat-square)
+![Profile Status](https://img.shields.io/badge/STATUS-AVAILABLE_FOR_WORK-2D7AF6?style=flat-square)
 
 <br/>
 
@@ -294,6 +291,6 @@ Self-hosted **WhatsApp Cloud API** gateway — WooCommerce order notifications, 
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F97316,35:EC4899,70:A855F7,100:6C3AE8&height=120&section=footer&animation=fadeIn" alt="footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F59E0B,35:F59E0B,70:10B981,100:2D7AF6&height=120&section=footer&animation=fadeIn" alt="footer"/>
 
 </div>
