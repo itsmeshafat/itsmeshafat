@@ -60,6 +60,155 @@ const shafat = {
 
 <br/>
 
+## ⚡ Featured Products
+
+### ◈ SaaSitude — Open-Source Laravel SaaS Boilerplate
+
+<div align="center">
+
+<a href="https://youtu.be/fhKQv4Cgoak">
+<img src="https://pub-d20612a9856b4616b6d0abdd9824aa73.r2.dev/portfolio/featured/saasitude-laravel-saas-boilerplate-featured.jpg" width="82%" alt="SaaSitude — Laravel SaaS Boilerplate"/>
+</a>
+
+</div>
+
+<br/>
+
+**Stop rebuilding billing.** Stripe, Paddle & SSLCommerz behind one interface — workspaces, entitlements, admin console, mobile API and a 5-step installer. Free & open source.
+
+<div align="center">
+
+[![▶ Watch the Demo](https://img.shields.io/badge/%E2%96%B6%20Watch%20the%20Demo-F97316?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/fhKQv4Cgoak)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/Get%20it%20on%20GitHub-6C3AE8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itsmeshafat/saasitude)
+&nbsp;
+[![Product Tour](https://img.shields.io/badge/Product%20Tour-A855F7?style=for-the-badge)](https://www.itsmeshafat.com/apps/saasitude/)
+
+![Laravel 13](https://img.shields.io/badge/Laravel%2013-0D0D0D?style=flat-square&logo=laravel&logoColor=A855F7)
+![Stripe](https://img.shields.io/badge/Stripe-0D0D0D?style=flat-square&logo=stripe&logoColor=EC4899)
+![Paddle](https://img.shields.io/badge/Paddle-0D0D0D?style=flat-square&logo=paddle&logoColor=F97316)
+![SSLCommerz](https://img.shields.io/badge/SSLCommerz-0D0D0D?style=flat-square)
+![MIT License](https://img.shields.io/badge/MIT-0D0D0D?style=flat-square)
+
+</div>
+
+<br/>
+
+### ◈ WordPress Plugins in Production
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://wordpress.org/plugins/frontend-file-explorer/">
+<img src="https://pub-d20612a9856b4616b6d0abdd9824aa73.r2.dev/portfolio/featured/frontend-file-explorer-featured.jpg" width="100%" alt="File Explorer — WordPress plugin"/><br/>
+</a>
+
+**📝 File Explorer** — a fast AJAX file manager for WordPress: browse, upload, and manage files right from wp-admin.
+
+<br/>
+
+[![WordPress.org](https://img.shields.io/badge/WordPress.org-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://wordpress.org/plugins/frontend-file-explorer/)
+[![Live Landing](https://img.shields.io/badge/Live%20Landing-6C3AE8?style=for-the-badge)](https://www.itsmeshafat.com/portfolio/file-explorer-plugin)
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://www.itsmeshafat.com/plugins/goldpilot/">
+<img src="https://pub-d20612a9856b4616b6d0abdd9824aa73.r2.dev/portfolio/featured/precious-metal-pricing-featured.jpg" width="100%" alt="GoldPilot — WooCommerce precious metal pricing"/><br/>
+</a>
+
+**🥇 GoldPilot** — WooCommerce precious-metal pricing: live gold/silver rates, automatic price recalculation, and per-product metal rules.
+
+<br/>
+
+[![Live Landing](https://img.shields.io/badge/Live%20Landing-6C3AE8?style=for-the-badge)](https://www.itsmeshafat.com/plugins/goldpilot/)
+[![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)](https://www.itsmeshafat.com/plugins/goldpilot/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://www.itsmeshafat.com/portfolio/openwa-whatsapp-gateway">
+<img src="https://pub-d20612a9856b4616b6d0abdd9824aa73.r2.dev/portfolio/featured/openwa-whatsapp-gateway-featured.jpg" width="100%" alt="OpenWA — WhatsApp Cloud API gateway"/><br/>
+</a>
+
+**💬 OpenWA** — self-hosted WhatsApp Cloud API gateway for WordPress: templates, QR sessions, REST webhooks.
+
+<br/>
+
+[![Live Landing](https://img.shields.io/badge/Live%20Landing-6C3AE8?style=for-the-badge)](https://www.itsmeshafat.com/portfolio/openwa-whatsapp-gateway)
+
+</td>
+<td width="50%" valign="top">
+
+<br/>
+
+**🗂️ File Rack** — a rebranded WordPress file manager with icon packs & share links, distributed via Freemius.
+
+<br/>
+
+[![Live Landing](https://img.shields.io/badge/Live%20Landing-6C3AE8?style=for-the-badge)](https://www.itsmeshafat.com/plugins/filerack)
+[![Freemius](https://img.shields.io/badge/Freemius-6C3AE8?style=for-the-badge)](https://www.itsmeshafat.com/plugins/filerack)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+## 🎬 Videos
+
+<div align="center">
+
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
+
+<a href="https://youtu.be/fhKQv4Cgoak">
+<img src="https://img.youtube.com/vi/fhKQv4Cgoak/mqdefault.jpg" width="100%" alt="SaaSitude demo video"/>
+</a>
+
+**SaaSitude — Stop Rebuilding Billing**<br/>
+<sub>Full product demo of the Laravel SaaS boilerplate</sub>
+
+</td>
+<td width="33%" align="center" valign="top">
+
+<a href="https://youtu.be/iiKMgT5FlHw">
+<img src="https://img.youtube.com/vi/iiKMgT5FlHw/mqdefault.jpg" width="100%" alt="OpenWA server installation guide"/>
+</a>
+
+**OpenWA Gateway Server Setup**<br/>
+<sub>Host your own WhatsApp automation server</sub>
+
+</td>
+<td width="33%" align="center" valign="top">
+
+<a href="https://youtu.be/0QRfJd-k3dg">
+<img src="https://img.youtube.com/vi/0QRfJd-k3dg/mqdefault.jpg" width="100%" alt="OpenWA plugin walkthrough"/>
+</a>
+
+**OpenWA Plugin Walkthrough**<br/>
+<sub>Templates, settings & QR-code sessions</sub>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -92,95 +241,6 @@ const shafat = {
 ![Postman](https://img.shields.io/badge/Postman-%23EC4899?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23F97316?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Composer](https://img.shields.io/badge/Composer-%236C3AE8?style=for-the-badge&logo=composer&logoColor=white)
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-<img src="https://img.shields.io/badge/📝%20AI%20SHIKHBO-LIVE-6C3AE8?style=for-the-badge&labelColor=0D0D0D" />
-
-<br/><br/>
-
-**AI Shikhbo** — Personal blog and learning platform focused on AI and tech.
-Blogging platform · Tutorials · AI articles
-
-<br/>
-
-![Next.js](https://img.shields.io/badge/Next.js-0D0D0D?style=flat-square&logo=nextdotjs&logoColor=A855F7)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D0D0D?style=flat-square&logo=typescript&logoColor=EC4899)
-![Vercel](https://img.shields.io/badge/Vercel-0D0D0D?style=flat-square&logo=vercel&logoColor=F97316)
-
-<br/>
-
-[![View Live](https://img.shields.io/badge/View%20Live%20→-6C3AE8?style=for-the-badge)](https://aishikhbo.com)
-
-</td>
-<td align="center" width="50%">
-
-<img src="https://img.shields.io/badge/🥛%20DAIRYPILOT-BUILDING-A855F7?style=for-the-badge&labelColor=0D0D0D" />
-
-<br/><br/>
-
-**ERP & Manufacturing System** for dairy factories.
-Inventory · Batch Tracking · Production · Reports
-
-<br/>
-
-![Laravel](https://img.shields.io/badge/Laravel-0D0D0D?style=flat-square&logo=laravel&logoColor=A855F7)
-![Inertia](https://img.shields.io/badge/Inertia.js-0D0D0D?style=flat-square&logo=inertia&logoColor=EC4899)
-![MySQL](https://img.shields.io/badge/MySQL-0D0D0D?style=flat-square&logo=mysql&logoColor=F97316)
-
-<br/>
-
-[![View Repo](https://img.shields.io/badge/View%20Repo%20→-A855F7?style=for-the-badge)](https://github.com/itsmeshafat/dairypilot)
-
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-
-<img src="https://img.shields.io/badge/⚡%20SAASITUDE-FREE%20%26%20OPEN%20SOURCE-F97316?style=for-the-badge&labelColor=0D0D0D" />
-
-<br/><br/>
-
-**Laravel SaaS boilerplate** — Stripe · Paddle · SSLCommerz billing behind one interface.
-Workspaces · Entitlements · Admin Console · Mobile API · 5-Step Installer
-
-<br/>
-
-![Laravel 13](https://img.shields.io/badge/Laravel%2013-0D0D0D?style=flat-square&logo=laravel&logoColor=A855F7)
-![Stripe](https://img.shields.io/badge/Stripe-0D0D0D?style=flat-square&logo=stripe&logoColor=EC4899)
-![Paddle](https://img.shields.io/badge/Paddle-0D0D0D?style=flat-square&logo=paddle&logoColor=F97316)
-![SSLCommerz](https://img.shields.io/badge/SSLCommerz-0D0D0D?style=flat-square)
-![MIT](https://img.shields.io/badge/MIT-0D0D0D?style=flat-square)
-
-<br/>
-
-[![SaaSitude — Stop Rebuilding Billing | Laravel SaaS Boilerplate (FREE, Open Source)](https://img.youtube.com/vi/fhKQv4Cgoak/maxresdefault.jpg)](https://youtu.be/fhKQv4Cgoak)
-
-<br/>
-
-[![▶ Watch the Demo](https://img.shields.io/badge/%E2%96%B6%20Watch%20the%20Demo-F97316?style=for-the-badge)](https://youtu.be/fhKQv4Cgoak)
-&nbsp;
-[![Get it on GitHub](https://img.shields.io/badge/Get%20it%20on%20GitHub-6C3AE8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itsmeshafat/saasitude)
-&nbsp;
-[![Product Tour](https://img.shields.io/badge/Product%20Tour-A855F7?style=for-the-badge)](https://www.itsmeshafat.com/apps/saasitude/)
-
-</td>
-</tr>
-</table>
 
 </div>
 
@@ -251,16 +311,6 @@ Workspaces · Entitlements · Admin Console · Mobile API · 5-Step Installer
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=itsmeshafat&color=A855F7&style=for-the-badge&label=PROFILE+VIEWS)
-
-<br/>
-
-```
-╔══════════════════════════════════════════════════════╗
-║   Build things that matter.                         ║
-║   Ship code that lasts.                             ║
-║   Leave the codebase better than you found it.      ║
-╚══════════════════════════════════════════════════════╝
-```
 
 </div>
 
