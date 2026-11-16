@@ -159,6 +159,55 @@ Self-hosted **WhatsApp Cloud API** gateway — WooCommerce order notifications, 
 
 <br/>
 
+<!-- ◤━━━━━━━━━━━━━━━━━━━━━━ CLIENT SYSTEMS ━━━━━━━━━━━━━━━━━━━━━━◥ -->
+
+## 🏭 Client Systems in Production
+
+> Full business systems designed, built and maintained solo — currently running real operations.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⚖️ CasePilot
+
+**Legal practice management system** — Laravel 12, AdminLTE 3, Tailwind CSS 4.
+
+Client & case management, invoicing, documents, tasks, calendar, 2FA, audit logging, multi-currency.
+
+<br/>
+
+[![Laravel](https://img.shields.io/badge/Laravel_12-0D0D0D?style=flat-square&logo=laravel&logoColor=2D7AF6)](https://laravel.com)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS_4-0D0D0D?style=flat-square&logo=tailwindcss&logoColor=10B981)](https://tailwindcss.com)
+[![2FA](https://img.shields.io/badge/2FA_&_Audit_Log-0D0D0D?style=flat-square)](https://api.whatsapp.com/send?phone=8801644413150)
+
+</td>
+<td width="50%" valign="top">
+
+### 🥛 DairyPilot
+
+**ERP & manufacturing system for dairy factories** — Laravel + Inertia + MySQL.
+
+Inventory, batch tracking, production planning, costing & reports across the full production line.
+
+<br/>
+
+[![Laravel](https://img.shields.io/badge/Laravel-0D0D0D?style=flat-square&logo=laravel&logoColor=2D7AF6)](https://laravel.com)
+[![Inertia.js](https://img.shields.io/badge/Inertia.js-0D0D0D?style=flat-square&logo=inertia&logoColor=10B981)](https://inertiajs.com)
+[![MySQL](https://img.shields.io/badge/MySQL-0D0D0D?style=flat-square&logo=mysql&logoColor=F59E0B)](https://www.mysql.com)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+[![💬 Request a Private Demo](https://img.shields.io/badge/💬_Request_a_Private_Demo-2D7AF6?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=8801644413150)
+
+</div>
+
+<br/>
+
 <!-- ◤━━━━━━━━━━━━━━━━━━━━━━ VIDEOS ━━━━━━━━━━━━━━━━━━━━━━◥ -->
 
 ## 🎬 Videos & Guides
