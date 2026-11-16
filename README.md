@@ -151,7 +151,7 @@ Self-hosted **WhatsApp Cloud API** gateway — WooCommerce order notifications, 
 <br/>
 
 [![GitHub](https://img.shields.io/badge/View_on_GitHub-2D7AF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itsmeshafat/OpenWA-WhatsApp-Gateway)
-[![Landing](https://img.shields.io/badge/Landing-10B981?style=for-the-badge)](https://www.itsmeshafat.com/products/plugins/openwa)
+[![Landing](https://img.shields.io/badge/Landing-10B981?style=for-the-badge)](https://www.itsmeshafat.com/products/plugins/openwa-whatsapp-gateway)
 
 </td>
 </tr>
