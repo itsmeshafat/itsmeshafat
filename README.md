@@ -18,6 +18,8 @@
 [![Facebook](https://img.shields.io/badge/Facebook-10B981?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/itsmeshafat)
 [![Instagram](https://img.shields.io/badge/Instagram-F59E0B?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/itsme_shafat)
 [![Threads](https://img.shields.io/badge/Threads-F59E0B?style=flat-square&logo=threads&logoColor=white)](https://www.threads.com/itsme_shafat)
+[![Upwork](https://img.shields.io/badge/Upwork-10B981?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01a5628a950aaad562)
+[![Fiverr](https://img.shields.io/badge/Fiverr-F59E0B?style=flat-square&logo=fiverr&logoColor=white)](https://www.fiverr.com/shafat_wordpres)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-2D7AF6?style=flat-square&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=8801644413150)
 
 </div>
@@ -325,6 +327,8 @@ Inventory, batch tracking, production planning, costing & reports across the ful
 [![WhatsApp](https://img.shields.io/badge/💬_Message_on_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=8801644413150)
 [![Facebook](https://img.shields.io/badge/👤_Connect_on_Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/itsmeshafat)
 [![Instagram](https://img.shields.io/badge/📸_Follow_on_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/itsme_shafat)
+[![Hire on Upwork](https://img.shields.io/badge/Hire_on_Upwork-2D7AF6?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01a5628a950aaad562)
+[![Hire on Fiverr](https://img.shields.io/badge/Hire_on_Fiverr-10B981?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/shafat_wordpres)
 
 <br/>
 
