@@ -136,6 +136,11 @@ WooCommerce precious-metal pricing — live gold/silver rates, per-product metal
 
 ### 🖥️ dev-stack
 
+<a href="https://github.com/itsmeshafat/dev-stack">
+<img src="https://raw.githubusercontent.com/itsmeshafat/dev-stack/main/docs/banner.jpg" width="100%" alt="dev-stack — banner"/></a>
+
+<br/>
+
 One command for a complete local dev stack on **macOS & Windows** — nginx → Apache (real `.htaccess`), PHP 8.5 / 8.3 / 7.4 side by side, MySQL · PostgreSQL · Redis · Mailpit, clean `*.test` URLs with trusted HTTPS, and a native control app. No containers, no VMs, no DNS daemon.
 
 <br/>
@@ -148,6 +153,11 @@ One command for a complete local dev stack on **macOS & Windows** — nginx → 
 <td width="50%" valign="top">
 
 ### 💬 OpenWA Gateway
+
+<a href="https://github.com/itsmeshafat/OpenWA-WhatsApp-Gateway">
+<img src="https://raw.githubusercontent.com/itsmeshafat/OpenWA-WhatsApp-Gateway/main/Screenshots/Plugin%20Admin%20Dashboard%20Page.png" width="100%" alt="OpenWA — admin dashboard"/></a>
+
+<br/>
 
 Self-hosted **WhatsApp Cloud API** gateway — WooCommerce order notifications, OTP verification, invoice PDFs, REST webhooks.
 
