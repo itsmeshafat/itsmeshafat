@@ -136,12 +136,13 @@ WooCommerce precious-metal pricing — live gold/silver rates, per-product metal
 
 ### 🖥️ dev-stack
 
-One-command local dev stack for **macOS** — nginx + Apache side by side, multi-PHP, MySQL/PostgreSQL/Redis/Mailpit, trusted HTTPS, native control app.
+One command for a complete local dev stack on **macOS & Windows** — nginx → Apache (real `.htaccess`), PHP 8.5 / 8.3 / 7.4 side by side, MySQL · PostgreSQL · Redis · Mailpit, clean `*.test` URLs with trusted HTTPS, and a native control app. No containers, no VMs, no DNS daemon.
 
 <br/>
 
 [![GitHub](https://img.shields.io/badge/View_on_GitHub-2D7AF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itsmeshafat/dev-stack)
-[![Landing](https://img.shields.io/badge/Landing-10B981?style=for-the-badge)](https://www.itsmeshafat.com/apps/dev-stack)
+[![Release](https://img.shields.io/github/v/release/itsmeshafat/dev-stack?sort=semver&color=10B981&label=release&style=for-the-badge)](https://github.com/itsmeshafat/dev-stack/releases)
+[![Landing](https://img.shields.io/badge/Landing-F59E0B?style=for-the-badge)](https://www.itsmeshafat.com/apps/dev-stack)
 
 </td>
 <td width="50%" valign="top">
